@@ -4,7 +4,7 @@ const scoreDiv = document.getElementById("score");
 
 const height = 24;
 const width = 12;
-const speed = 150;
+const speed = 300;
 
 const blocks = [
   {
